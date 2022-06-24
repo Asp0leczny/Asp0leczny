@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asp0leczny
-- 👀 I’m interested in borning stuff like netflix.
+- 👀 I’m interested in borning stuff like netflix, video games, testing.
 - 🌱 I’m currently learning node.js, express, responsive html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
